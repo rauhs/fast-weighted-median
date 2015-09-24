@@ -32,5 +32,7 @@ The journal article is available at:
 http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6193457
 
 # License
-MIT
+Copyright © 2014-2015 Andre Rauh.
+
+Distributed under MIT License.
 
